@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @thejoshuahendrix
+- 💼 My current portfolio can be found at https://hendrixportfolio.herokuapp.com/
 - 👀 I’m interested in web and video game design and development
 - 🌱 I’m currently using React, Typescript and full stack Javascript
 - 📚 My favorite libraries are Styled-Components and Express
