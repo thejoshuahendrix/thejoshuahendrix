@@ -7,6 +7,9 @@
 - 💞️ I’m looking to collaborate on any web projects
 - 💻 I am growing my skills in DevOps, application security and cloud engineering
 - 📫 How to reach me thejoshuahendrix@gmail.com
+
+
+
 [![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejoshuahendrix)](https://github.com/thejoshuahendrix/github-readme-stats)
 
 <!---
